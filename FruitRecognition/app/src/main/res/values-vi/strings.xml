@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nhận Diện Hoa Quả</string>
+    <string name="action_settings">Cài Đặt</string>
+    <string name="help">Giúp Đỡ</string>
+    <string name="feedback">Phản Hồi</string>
+    <string name="language">Ngôn Ngữ</string>
+    <string name="aboutus">Về Chúng Tôi</string>
+    <string name="Vietnamese">Việt Nam</string>
+    <string name="English">Tiếng Anh</string>
+</resources>

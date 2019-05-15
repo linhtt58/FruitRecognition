@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kyoantrovice.fruitrecognition.HomeScreen" >
+    <item android:id="@+id/menu_help"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/help"/>
+
+    <item android:id="@+id/menu_feedback"
+        android:icon="@android:drawable/ic_menu_report_image"
+        android:title="@string/feedback"/>
+
+    <item android:id="@+id/menu_language"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/language"/>
+
+    <item android:id="@+id/menu_aboutus"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/aboutus"/>
+</menu>
